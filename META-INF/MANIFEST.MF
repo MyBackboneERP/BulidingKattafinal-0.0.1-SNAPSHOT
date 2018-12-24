@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: BulidingKattafinal
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: KUMAR
+Implementation-Vendor-Id: com.example
+Spring-Boot-Version: 2.1.0.RELEASE
+Main-Class: org.springframework.boot.loader.JarLauncher
+Start-Class: com.xcode.bulidingkatta.BulidingKattafinalApplication
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BulidingKattafinal
+
